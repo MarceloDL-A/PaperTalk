@@ -1,0 +1,72 @@
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de log e depuração
+*.log
+*.out
+*.err
+
+# Ambientes Virtuais
+venv/
+env/
+.venv/
+.virtualenv/
+
+# Configurações do IDEs/Editors
+.vscode/
+.idea/
+*.swp
+*.sublime-workspace
+
+# Ferramentas de Build
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Arquivos temporários
+*.~*
+*.tmp
+
+# Arquivos gerados pelo Jupyter/Colab
+.ipynb_checkpoints
+
+# Configurações de Testes
+.tox/
+.nox/
+coverage.*
+.cache
+nosetests.xml
+*.cover
+*.pycover
+*.hypothesis/
+pytest_cache/
+
+# Dados sensíveis
+*.env
+.env
+config.json
+secrets.json
+
+# Relatórios do MyPy e Pylint
+.mypy_cache/
+pylint.log
+
+# Arquivos de Docker
+docker-compose.override.yml
+
+
+# Arquivos de configuração e segredos
+.env
+*.env
+config.json
+secrets.json
+
+# Arquivos específicos de API Keys
+*api_key*
+*secret*
+*token*
