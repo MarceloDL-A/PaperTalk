@@ -1,4 +1,4 @@
-# Converse com Documentos usando RAG - README
+# Converse com Documentos usando RAG
 
 
 ## Introdução
