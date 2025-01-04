@@ -42,7 +42,7 @@ pip install streamlit langchain langchain-core langchain-community langchain-ope
 ## Como Executar
 1. Clone o repositório:
 ```bash
-git clone [<URL-do-repositorio>](https://github.com/MarceloDL-A/PaperTalk.git)
+git clone https://github.com/MarceloDL-A/PaperTalk.git
 cd PaperTalk
 ```
 2. Crie um arquivo `.env` e configure suas chaves de API (OpenAI ou Hugging Face).
