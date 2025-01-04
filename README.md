@@ -1,5 +1,6 @@
 # Converse com Documentos usando RAG - README
 
+
 ## Introdução
 Este é um aplicativo desenvolvido com **Streamlit** que permite interagir com documentos PDF através de perguntas e respostas, utilizando a técnica de **RAG (Retrieval-Augmented Generation)**. 
 
